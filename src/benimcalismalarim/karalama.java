@@ -48,7 +48,7 @@ public class karalama {
         String sonuc = (sayi%2==0)? "Sayi cift" : "Sayi Tektir";
         System.out.println("Sayi = " + sonuc);
         */
-
+/*
         //SWITCH'E ÖRNEK
 
         //int gun = 3;
@@ -81,5 +81,10 @@ public class karalama {
 
         }
         System.out.println("gunAdi = " + gunAdi);
+        */
+
+
+
+
     }
 }
