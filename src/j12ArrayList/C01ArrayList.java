@@ -1,3 +1,5 @@
+package j12ArrayList;
+
 import java.util.*;
 
 public class C01ArrayList {
