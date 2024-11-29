@@ -1,6 +1,6 @@
 package benimcalismalarim.Mentoring;
 
-public class M_2711_01_ForEach {
+public class M_1127_01_ForEach {
     public static void main(String[] args) {
         // Bir veya birden fazla  method yazarak,  istediğiniz kadar array gönderin ve
         // gönderilen arraylerin toplamı en büyük olanını bulun

@@ -24,7 +24,7 @@ public class Hw_1127_04_ArrayList {
 
 
         List<String> updatedRenkler = changeInArraylist(renkler, s1, s2);
-        System.out.println(updatedRenkler);  // Çıktı: [yellow, red, yellow, red, yellow]
+        System.out.println(updatedRenkler);
     }
 
     public static List<String> changeInArraylist(List<String> renkler, String s1, String s2) {
