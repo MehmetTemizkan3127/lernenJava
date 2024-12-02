@@ -19,7 +19,7 @@ public class Hw_1129_01_DateTimeNano {
         long bitisZamani = System.nanoTime();
 
         long gecenSure = bitisZamani - baslangicZamani;
-        System.out.println("Döngü calisma süresi : " + gecenSure + " nanisaniye");
+        System.out.println("Döngü calisma süresi : " + gecenSure + " nanosaniye");
     }
 }
 
