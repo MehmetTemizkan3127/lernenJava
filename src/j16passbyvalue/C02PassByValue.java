@@ -1,4 +1,4 @@
-package j16pass_by_value;
+package j16passbyvalue;
 
 public class C02PassByValue {
     //  task -> verilen fiyat için %11 %22 ve %33  indirimli  fiyatı print eden return type METHODlar  create ediniz.
@@ -34,5 +34,11 @@ public class C02PassByValue {
     public static void fiyatIndir(double fiyat,double yuzde){
         fiyat = fiyat*(1-yuzde/100);
         System.out.println("Metod içinde fiyat = " + fiyat);
+    }
+
+    public static double fiyatIndir2(double fiyat ,double yuzde){
+        fiyat = fiyat*(1-yuzde/100);
+        System.out.println("Metod içinde fiyat = " + fiyat +" yüzde = "+ yuzde);
+        return fiyat;
     }
 }

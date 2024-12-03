@@ -1,4 +1,4 @@
-package j16pass_by_value;
+package j16passbyvalue;
 
 public class C01PassByValue {
 
