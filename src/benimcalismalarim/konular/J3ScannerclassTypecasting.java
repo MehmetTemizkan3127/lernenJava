@@ -58,12 +58,12 @@ public class J3ScannerclassTypecasting {
 
         double num = 125.54; // Primitive tip
 
-        Byte sayiB1 = Byte.valueOf((byte) num);        // Cast yapildi
-        Short sayiS1 = Short.valueOf((short) num);     // Cast yapildi
-        Integer sayiI1 = Integer.valueOf((int) num);   //Cast yapildi
-        Long sayiL1 = Long.valueOf((long) num);        //Cast yapildi
-        Float sayiF1 = Float.valueOf((float)num);      //Cast yapildi
-        Double sayiD1 = Double.valueOf((double)num);   //Cast yapildi
+        Byte sayiB1 = Byte.valueOf((byte) num);
+        Short sayiS1 = Short.valueOf((short) num);
+        Integer sayiI1 = Integer.valueOf((int) num);
+        Long sayiL1 = Long.valueOf((long) num);
+        Float sayiF1 = Float.valueOf((float)num);
+        Double sayiD1 = Double.valueOf((double)num);
 
         System.out.println(sayiB1);
         System.out.println(sayiS1);
@@ -117,12 +117,12 @@ public class J3ScannerclassTypecasting {
         Integer aSayi = num2;
         System.out.println("aSayi = " + aSayi);
 
-        byte sayiB3 = (byte) num1.doubleValue();     // Cast yapildi
-        short sayiS3 = (short) num1.shortValue();    // Cast yapildi
-        int sayiI3 = (int) num1.shortValue();    //Cast yapildi
-        long sayiL3 = (long) num1.longValue();       //Cast yapildi
-        float sayiF3 = (float) num1.floatValue();    //Cast yapildi
-        double sayiD3 = (double) num1.doubleValue(); //Cast yapildi
+        byte sayiB3 = (byte) num1.doubleValue();
+        short sayiS3 = (short) num1.shortValue();
+        int sayiI3 = (int) num1.shortValue();
+        long sayiL3 = (long) num1.longValue();
+        float sayiF3 = (float) num1.floatValue();
+        double sayiD3 = (double) num1.doubleValue();
 
         System.out.println(sayiB3);
         System.out.println(sayiS3);
