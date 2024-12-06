@@ -2,7 +2,7 @@ package benimcalismalarim.mentoring.constructor;
 
 import java.time.LocalDate;
 
-public class Product {
+public class ProductRanner {
 
     int yas;
     double ayakNumarasi;
@@ -23,7 +23,7 @@ public class Product {
                 '}';
     }
 
-    public Product(int yas, double ayakNumarasi, String rengi, String kumasCinsi, LocalDate uretimTarihi, boolean yazlikMi) {
+    public ProductRanner(int yas, double ayakNumarasi, String rengi, String kumasCinsi, LocalDate uretimTarihi, boolean yazlikMi) {
         this.yas = yas;
         this.ayakNumarasi = ayakNumarasi;
         this.rengi = rengi;
@@ -33,22 +33,22 @@ public class Product {
 
     }
 
-    public Product() {
+    public ProductRanner() {
     }
 
-    public Product(double ayakNumarasi, String rengi) {
+    public ProductRanner(double ayakNumarasi, String rengi) {
         this.ayakNumarasi = ayakNumarasi;
         this.rengi = rengi;
     }
 
-    public Product(int yas, double ayakNumarasi, String rengi, LocalDate uretimTarihi) {
+    public ProductRanner(int yas, double ayakNumarasi, String rengi, LocalDate uretimTarihi) {
         this.yas = yas;
         this.ayakNumarasi = ayakNumarasi;
         this.rengi = rengi;
         this.uretimTarihi = uretimTarihi;
     }
 
-    public Product(int yas, double ayakNumarasi, String rengi, String kumasCinsi) {
+    public ProductRanner(int yas, double ayakNumarasi, String rengi, String kumasCinsi) {
         this.yas = yas;
         this.ayakNumarasi = ayakNumarasi;
         this.rengi = rengi;
