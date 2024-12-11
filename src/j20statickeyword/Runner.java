@@ -1,5 +1,8 @@
 package j20statickeyword;
 
+import j20statickeyword.tasks.ElektrikHesap;
+import j20statickeyword.tasks.Musteri;
+
 public class Runner {
         /*
     Task 02 ->

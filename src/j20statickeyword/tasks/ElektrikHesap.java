@@ -1,7 +1,7 @@
 package j20statickeyword.tasks;
 
 public class ElektrikHesap {
-    int toplamTuketim;
+    public int toplamTuketim;
     static double oran;
     double fatura;
 

@@ -1,6 +1,5 @@
-package benimcalismalarim;
+package benimcalismalarim.dummy;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class karalama {
