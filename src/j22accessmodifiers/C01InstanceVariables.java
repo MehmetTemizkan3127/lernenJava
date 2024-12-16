@@ -76,7 +76,7 @@ public class C01InstanceVariables {
 
     }
 
-    static void staticMethod(C01InstanceVariables obje) {
+    public static void staticMethod(C01InstanceVariables obje) {
         System.out.println("statik method direk olarak (Class)ismiyle çağırılabilir");
         System.out.println("obje.yas = " + obje.yas);
         obje.nonstaticMethod(); // non-static metodlar da static yapılarda obje üzerinden kullanılır

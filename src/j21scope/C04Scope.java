@@ -1,5 +1,7 @@
 package j21scope;
 
+import j22accessmodifiers.C01InstanceVariables;
+
 public class C04Scope {
 
     public static void main(String[] args) {
