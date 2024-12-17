@@ -1,14 +1,26 @@
 package j24inheritance.inheritance3;
 
+
+
 public class Runner {
+
     public static void main(String[] args) {
-        Hayvan hayvan1 = new Hayvan();
-        System.out.println(hayvan1.m);
+        Hayvan h1 = new Hayvan();
+        System.out.println("h1.m = " + h1.m); // 3
 
-        Memeli memeli1 = new Memeli();
-        System.out.println(memeli1.m);
+        Memeli m1 = new Memeli();
+        System.out.println("m1.m = " + m1.m); // 1
 
-        Kedi kedi1 = new Kedi();
-        System.out.println(kedi1.c);
+        Kedi k1 = new Kedi();
+        System.out.println("k1.c = " + k1.c); // 2
+        System.out.println("k1.a = " + k1.a);// 0;
+        System.out.println("k1.m = " + k1.m); // 1
+        System.out.println("k1.m = " + k1.d); // 7
+
+        System.out.println("**************** String Kedi *************");
+        Kedi k2 = new Kedi("Pamuk");
+
+
     }
+
 }
