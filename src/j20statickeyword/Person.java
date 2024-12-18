@@ -5,6 +5,10 @@ public class Person {
     int age = 5;
     static int number = 10;
 
+    protected String getDetails() {
+        return null;
+    }
+
 
     static class Teacher {
 

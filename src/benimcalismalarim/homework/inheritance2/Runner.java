@@ -1,5 +1,8 @@
 package benimcalismalarim.homework.inheritance2;
 
+import java.util.ArrayList;
+import java.util.List;
+
 public class Runner {/*Görev:
     Vehicle adında bir sınıf oluşturun. Bu sınıf:
     brand adında bir özellik ve start() adında bir metot içersin.
@@ -17,8 +20,11 @@ public class Runner {/*Görev:
         electricCar.brand = "Porsche";
         electricCar.numberOfDoors = 2;
         electricCar.batteryCapacity = 100;
-        System.out.println(electricCar.brand+" "+electricCar.numberOfDoors+" kapili ve batarya kapasitesi = "+electricCar.batteryCapacity);
+        System.out.println("Markasi = "+electricCar.brand);
+        System.out.println("Kapi Sayisi = "+electricCar.numberOfDoors);
         electricCar.start();
         electricCar.chargeBattery();
+
+
     }
 }

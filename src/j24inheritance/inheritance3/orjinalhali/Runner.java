@@ -1,4 +1,4 @@
-package j24inheritance.inheritance3;
+package j24inheritance.inheritance3.orjinalhali;
 
 
 
