@@ -1,4 +1,4 @@
-package j24inheritance.inheritance3.orjinalhali;
+package j24inheritance.inheritance3;
 
 public class Kedi extends Memeli {
 

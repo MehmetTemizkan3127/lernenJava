@@ -1,4 +1,4 @@
-package j24inheritance.inheritance3.guncelhali;
+package j24inheritance.inheritance3;
 
 
 
