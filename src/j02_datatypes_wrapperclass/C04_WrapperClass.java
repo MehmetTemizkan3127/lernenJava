@@ -27,7 +27,8 @@ public class C04_WrapperClass {
         System.out.println("name.getClass() = " + name.getClass()); // getClass() mtd u data nın data türünü döndürdü
         System.out.println("name.toUpperCase() = " + name.toUpperCase());
         System.out.println("num2.getClass() = " + num2.getClass());
-        //System.out.println("num1.getClass() = " + num1.getClass()); // CTE verdi -> primitivelerde hafızada sadece değer kaydedilir mthdlar yok
+        //System.out.println("num1.getClass() = " + num1.getClass()); // CTE verdi -> primitivelerde hafızada sadece
+        // değer kaydedilir mthdlar yok
 
                 /*
         Non-primitive data turleri data depolamak yaninda kullanışlı

@@ -5,11 +5,13 @@ public class C02_DataTypes {
             Java'da  2 farkli data type tanımlanır.
             1)Primitive Data Type (8 tane)
 
-              a)boolean: Sadece True veya False değerlerini alabilir. sadece iki farkli deger alabildigi icin memory'de az(bir bit'lik) alan kaplar
+              a)boolean: Sadece True veya False değerlerini alabilir. sadece iki farkli deger alabildigi icin
+              memory'de az(bir bit'lik) alan kaplar
 
               b)char :Tek character'li (S, ?, 3, * gibi her bir sembol) ifadeler icin char data type'i kullanilir.
                       her bir char memory'de 16 bit'lik yer kaplar.char deger mutlaka tek tirnak icine konulmalıdilir.
-                      char değerler aritmetik islemler için charlarin ASCII ("American Standard Code for Information Interchange") Table'daki degerlerini alır.
+                      char değerler aritmetik islemler için charlarin ASCII ("American Standard Code for Information Interchange")
+                      Table'daki degerlerini alır.
 
               c)byte : -128'den +127 ye kadar tum tam sayi degerlerini alır.
                       byte variable -> memory'de 8 bitlik alan kaplar.
