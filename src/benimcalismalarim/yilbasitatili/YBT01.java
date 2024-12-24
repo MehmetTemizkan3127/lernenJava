@@ -5,145 +5,170 @@ import java.util.Scanner;
 
 public class YBT01 {
     public static void main(String[] args) {
-    /*1- WRAPPER CLASS
+    /*
 
-    Scanner scan = new Scanner(System.in);
-        /*System.out.println("**************Autobox**************");
-        // 1- Bir int değeri tanımlayın ve bu değeri bir Integer nesnesine autobox edin.
-        int num1 = 5;
-        Integer sayi1Integer = Integer.valueOf(num1);
-        System.out.println("Integer Autobox = " + sayi1Integer);
+1. AUTOBOXING (PRIMITIVE → WRAPPER)
+Primitive türlerden Wrapper sınıflarına otomatik dönüşüm.
 
-        //2- Bir float değeri tanımlayın ve bu değeri bir Float nesnesine autobox edin.
-        float num2 = 100000000F;
-        Float num2Float = Float.valueOf(num2);
-        System.out.println("Float Autobox   = " + num2Float);
+Örnek 1:
+int yas = 12;
+Integer yasWrapper = yas; // Autoboxing
 
-        //3- Bir boolean değeri tanımlayın ve bu değeri bir Boolean nesnesine autobox edin.
-        boolean cinsiyetErkek = true;
-        Boolean cinsiyetErkekBoolean = Boolean.valueOf(cinsiyetErkek);
-        System.out.println("Boolean Autobox = " + cinsiyetErkekBoolean);
 
-        //4- Bir short değeri tanımlayın ve bu değeri bir Short nesnesine autobox edin.
-        short age = 20;
-        Short yasShort = Short.valueOf(age);
-        System.out.println("Short Autobox   = " + yasShort);
+Alternatif: valueOf() ile
+Integer yasWrapper2 = Integer.valueOf(12); // valueOf() ile dönüşüm
 
-        //5- Bir double değeri tanımlayın ve bu değeri bir Double nesnesine autobox edin.
-        double grade = 3.5;
-        Double gradeDouble = Double.valueOf(grade);
-        System.out.println("Double Autobox  = " + gradeDouble);
+2. UNBOXING (WRAPPER → PRIMITIVE)
+Wrapper sınıfından primitive türüne dönüşüm.
 
-        System.out.println();
-        System.out.println("**************Unbox**************");
+Örnek 1:
 
-        //1- Bir Integer nesnesi tanımlayın ve bu nesneyi bir int primitive değişkene unbox edin.
-        Integer num3 = 8;
-        int num3Int = num3.intValue();
-        System.out.println("Int Unbox       = " + num3Int);
+Integer yasWrapper = 15;
+int yas = yasWrapper; // Unboxing
 
-        //2- Bir Character nesnesi tanımlayın ve bu nesneyi bir char primitive değişkene unbox edin.
-        Character ilkHarf = 65;
-        char ilkHarfChar = ilkHarf.charValue();
-        System.out.println("Char Unbox      = " + ilkHarfChar);
+Alternatif: intValue() ile
+int yas2 = yasWrapper.intValue(); // intValue() ile dönüşüm
 
-        //3- Bir Double nesnesi tanımlayın ve bu nesneyi bir double primitive değişkene unbox edin.
-        Double grade1 = 2.5;
-        double grade1Double = grade1.doubleValue();
-        System.out.println("Double Unbox    = " + grade1Double);
+3. WIDENING (KÜÇÜK TÜRLER → BÜYÜK TÜRLER)
+Küçük türden büyük türe otomatik dönüşüm, veri kaybı olmaz.
 
-        //4- Bir Boolean nesnesi tanımlayın ve bu nesneyi bir boolean primitive değişkene unbox edin.
-        Boolean evliMi = true;
-        boolean evliMiBoolean = evliMi.booleanValue();
-        System.out.println("Boolean Unbox   = " + evliMiBoolean);
+Örnek:
 
-        //5- Bir Long nesnesi tanımlayın ve bu nesneyi bir long primitive değişkene unbox edin.
-        Long id = 10000L;
-        long idLong =id.longValue();
-        System.out.println("Long Unbox      = " + idLong);
-        */
+byte yasByte = 10;
+double yasDouble = yasByte; // Widening
 
-        //02- CASTING
+4. NARROWING (BÜYÜK TÜRLER → KÜÇÜK TÜRLER)
+Büyük türden küçük türe dönüşüm, veri kaybı olabilir, explicit cast gereklidir.
 
-        //01- int türündeki bir değeri long türüne nasıl dönüştürürsünüz?
-        int yas = 15;
-        long longYasWiCa = (long)yas;
-        System.out.println("longYasWiCa = " + longYasWiCa);
+Örnek:
 
-        //02- double türündeki bir değeri int türüne nasıl dönüştürürsünüz?
-        double not = 3.5;
-        int intNotNaCa = (int)not;
-        System.out.println("intNotNaCa = " + intNotNaCa);
+double yasDouble = 10.5;
+byte yasByte = (byte) yasDouble; // Narrowing
 
-        //03- short türündeki bir değeri float türüne nasıl dönüştürürsünüz?
-        short num1 = 3;
-        float floatNum1WiCa = (float)num1;
-        System.out.println("floatNum1WiCa = " + floatNum1WiCa);
+ÖZET:
+Autoboxing (Primitive → Wrapper): Primitive tür → Wrapper
+-->(Örnek: int yas = 12; Integer yasWrapper = yas;)
+Unboxing (Wrapper → Primitive): Wrapper → Primitive
+-->(Örnek: Integer yasWrapper = 15; int yas = yasWrapper;)
+Widening (Küçük Tür → Büyük Tür): Küçük tür → Büyük tür
+-->(Örnek: byte yasByte = 10; double yasDouble = yasByte;)
+Narrowing (Büyük Tür → Küçük Tür): Büyük tür → Küçük tür, explicit cast ile
+-->(Örnek: double yasDouble = 10.5; byte yasByte = (byte) yasDouble;)
 
-        //04- float türündeki bir değeri byte türüne nasıl dönüştürürsünüz?
-        float idNo = -180;
-        byte byteIdNoNaCa = (byte)idNo; // --> Cok sacma bir sayi yazdirdi
-        System.out.println("byteIdNoNaCa = " + byteIdNoNaCa);
+ */
+        //Task 01: int türündeki bir değeri Integer türüne dönüştürün ve ardından geri int türüne çevirin.
+        int yas1 = 40;
+        Integer sayi1Wrapper = Integer.valueOf(yas1); //Autoboxing
+        System.out.println("1. Yol = " + sayi1Wrapper);
 
-        //05- byte türündeki bir değeri double türüne nasıl dönüştürürsünüz?
-        byte preis = 3;
-        double doublePreisWiCa = (double)preis;
-        System.out.println("doublePreisWiCa = " + doublePreisWiCa);
+        Integer sayi1Wrapper1 = yas1; //Autoboxing
+        System.out.println("2. Yol = " + sayi1Wrapper1);
 
-        //06- long türündeki bir değeri short türüne nasıl dönüştürürsünüz?
-        long sayac = 2468;
-        short shortSayacNaCa = (short)sayac;
-        System.out.println("shortSayacNaCa = " + shortSayacNaCa);
+        int yas1Primitiv = sayi1Wrapper1;
+        System.out.println("1. Yol = " + yas1Primitiv); //Unboxing
 
-        //07- char türündeki bir değeri int türüne nasıl dönüştürürsünüz?
-        char ilkHarf = 65;
-        int intIlkHarf = (int)ilkHarf;
-        System.out.println("intIlkHarf = " + intIlkHarf);
+        int yas1Primitiv1 = sayi1Wrapper1.intValue(); //Unboxing
+        System.out.println("2. Yol = " + yas1Primitiv1);
 
-        //08- double türündeki bir değeri float türüne nasıl dönüştürürsünüz?
-        double fiyat = 4.5;
-        float floatFiyat = (float)fiyat;
-        System.out.println("floatFiyat = " + floatFiyat);
+       //Task 02: double türündeki bir değeri int türüne dönüştürün, ardından byte türüne çevirin.
+        double not1 = 3.5;
+        int not1Int = (int)not1; //Narrowing
+        System.out.println("Narrowing Double-Int = " + not1Int);
 
-        //09- int türündeki bir değeri double türüne nasıl dönüştürürsünüz?
-        int not2 = 6;
-        double doubleNot2 = (double)not2;
-        System.out.println("doubleNot2 = " + doubleNot2);
+        byte not1Byte = (byte) not1Int; //Narrowing
+        System.out.println("Narrowing Int-Byte = " + not1Byte);
 
-        //10- double türündeki bir değeri byte türüne nasıl dönüştürürsünüz?
-        double not3 = 5.5;
-        byte byteNot3 = (byte)not3;
-        System.out.println("byteNot3 = " + byteNot3);
+        //Task 03: float türündeki bir değeri double türüne dönüştürün ve ardından float türüne geri dönüştürün.
+        float id1 = 12345678;
+        double id1Double = (double) id1; //Widening
+        System.out.println("Widening Float/Double = " + id1Double);
 
-        //1. Double → byte (Narrowing + Unboxing)
-        //Soru: Double türündeki bir değeri önce primitive double türüne, ardından byte türüne nasıl dönüştürürsünüz?
+        float id1Float = (float) id1Double; //Narrowing
+        System.out.println("Narrowing Double/Float = " + id1Float);
 
-        //2. int → Float (Widening + Autoboxing)
-        //Soru: int türündeki bir değeri önce primitive float türüne, ardından Float nesnesine nasıl dönüştürürsünüz?
+        //Task 04: long türündeki bir değeri short türüne dönüştürün.
+        long numara = 24681;
+        short numaraShort = (short)numara; //Narrowing
+        System.out.println("Narrowing Long/Short = " + numaraShort);
 
-        //3. Byte → long (Widening + Unboxing)
-        //Soru: Byte türündeki bir nesneyi önce primitive byte türüne, ardından long türüne nasıl dönüştürürsünüz?
+        //Task 05: byte türündeki bir değeri double türüne dönüştürün ve sonra byte türüne geri çevirin.
+        byte yas2 = 30;
+        double yas2Double = (double)yas2; //Widening
+        System.out.println("Widening Byte/Double = " + yas2Double);
 
-        //4. float → Integer (Narrowing + Autoboxing)
-        //Soru: float türündeki bir değeri önce int türüne, ardından Integer nesnesine nasıl dönüştürürsünüz?
+        byte yas2Byte = (byte) yas2Double; //Narrowing
+        System.out.println("Narrowing Double/Byte = " + yas2Byte);
 
-        //5. short → Double (Widening)
-        //Soru: short türündeki bir değeri doğrudan double türüne nasıl dönüştürürsünüz?
+        //Task 06: Integer türündeki bir değeri double türüne dönüştürün, ardından tekrar int türüne çevirin.
+        Integer fiyat = 8;
+        double fiyatDouble = fiyat.doubleValue(); //Unboxing
+        System.out.println("Unboxing Integer/Double  = " + fiyatDouble);
 
-        //6. Long → int (Narrowing + Unboxing)
-        //Soru: Long türündeki bir nesneyi önce primitive long türüne, ardından int türüne nasıl dönüştürürsünüz?
+        int fiyatInt = (int) fiyatDouble; //Narrowing
+        System.out.println("Narrowing Double/Int = " + fiyatInt);
 
-        //7. char → Integer (Widening + Autoboxing)
-        //Soru: char türündeki bir değeri önce primitive int türüne, ardından Integer nesnesine nasıl dönüştürürsünüz?
+        //Task 07: short türündeki bir değeri long türüne dönüştürün.
+        short age = 12;
+        long ageLong = (long) age;
+        System.out.println("Widening Short/Long = " + ageLong); //Widening
 
-        //8. double → Float (Narrowing + Autoboxing)
-        //Soru: double türündeki bir değeri önce float türüne, ardından Float nesnesine nasıl dönüştürürsünüz?
+       //Task 08: float türündeki bir değeri önce Integer türüne, sonra double türüne dönüştürün.
+        float id2 = 135791F;
+        Integer id2Integer = Integer.valueOf((int) id2); //Autoboxing;
+        System.out.println("Autoboxing  = " + id2Integer);
 
-        //9. Integer → float (Unboxing + Widening)
-        //Soru: Integer türündeki bir nesneyi önce primitive int türüne, ardından float türüne nasıl dönüştürürsünüz?
+        double id2double = id2Integer.doubleValue(); //Unboxing
+        double id2double1 = id2Integer;
+        System.out.println("id2double1 = " + id2double1);
+        System.out.println("Unboxing = " + id2double);
 
-        //10. long → Short (Narrowing + Autoboxing)
-        //Soru: long türündeki bir değeri önce short türüne, ardından Short nesnesine nasıl dönüştürürsünüz?
+        //Task 09: char türündeki bir değeri int türüne dönüştürün.
+        char ilkHarf = 'A';
+        int ilkHarfInt = (int) ilkHarf; //Widening
+        System.out.println("Char integer'a dönüstü = " + ilkHarfInt);
+
+        //Task 10: int türündeki bir değeri önce Byte türüne, sonra short türüne dönüştürün.
+        int sayi3 = 8;
+        Byte sayi3Byte = Byte.valueOf((byte) sayi3); //Autoboxing
+        System.out.println("sayi3Byte = " + sayi3Byte);
+
+        short sayi3Short = sayi3Byte.shortValue(); //Unboxing
+        System.out.println("sayi3Short = " + sayi3Short);
+
+        //Task 11: double türündeki bir değeri önce long türüne, sonra int türüne çevirin.
+        double fiyat4 = 120.35;
+        long fiyat4Long = (long) fiyat4; //Narrowing
+        System.out.println("Long türünde = " + fiyat4Long);
+
+        int fiyat4Int = (int) fiyat4Long; //Narrowing
+        System.out.println("Integer'a cevrildi = " + fiyat4Int);
+
+          //Task 12: long türündeki bir değeri double türüne dönüştürün, ardından long türüne geri çevirin.
+
+                //Task 13: char türündeki bir değeri önce int türüne, sonra byte türüne dönüştürün.
+
+                //Task 14: Integer türündeki bir değeri önce float türüne, sonra short türüne çevirin.
+
+                //Task 15: double türündeki bir değeri önce byte türüne, sonra long türüne dönüştürün.
+
+        // soru 1) iki float sayıyı birbirine bölünüz sonucu yazdırınız.
+        float domatesFiyati = 2.59F;
+        float salatalikFiyati = 0.89F;
+        float sonuc = domatesFiyati/salatalikFiyati;
+        System.out.println("Float sonucu =" +sonuc);
+
+        // soru 2) kenar uzunluğu 5 olan bir karenin cevresini ve alanını hesaplayınız
+        double uzunKenar = 6;
+        double kisaKenar = 3;
+        double sonuc1 = uzunKenar*kisaKenar;
+        System.out.println("Alan = "+sonuc1);
+
+        // soru 3) Ahmet ve Mehmet isimlerini birleşik olarak yazdırınız
+        String isim1 = "Ahmet";
+        String isim2 = "Mehmet";
+        System.out.println(isim1+"\n"+isim2);
+
+
 
 
 
