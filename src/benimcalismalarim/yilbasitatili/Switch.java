@@ -89,7 +89,7 @@ public class Switch {
                     break;
             }
         } else {
-            System.out.println("Hatat: Lütfen 1-7 araliginda sayisal bir rakam giriniz! ");
+            System.out.println("Hata: Lütfen 1-7 araliginda sayisal bir rakam giriniz! ");
         }
     }
 }
