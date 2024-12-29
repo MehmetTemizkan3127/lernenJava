@@ -1,7 +1,7 @@
 package benimcalismalarim.yilbasitatili;
 
-import java.util.Arrays;
-import java.util.Scanner;
+import java.text.Collator;
+import java.util.*;
 
 public class StringMethodlari02 {
     public static void main(String[] args) {
@@ -40,13 +40,52 @@ public class StringMethodlari02 {
         // Her kelimenin ilk harfini büyük yaparak yazdırın.
         // Cümledeki kelimelerin sadece ilk harflerini yazdırın.
         String cumle = "Java ögrenmek ayricalik ve gelecektir";
-        String[] kelimeler = cumle.split(" ");
+        System.out.println("1- Orjinal Cümle                        = " + cumle);
 
-        System.out.println("Ters Sırada Kelimeler:");
-        for (String kelime : kelimeler) {
-            System.out.print(kelime + " ");
+        List<String> kelimeList = Arrays.asList(cumle.split(" "));
+        System.out.println("2- Kelime listesi olusturuldu           = " + kelimeList);
+
+        Collections.reverse(kelimeList);
+        System.out.println("3- Kelime listesi tersten yazdirildi    = " + kelimeList);
+
+        String tersCumle = String.join(" ", kelimeList);
+        System.out.println("4- Kelime listesi kullanici icin özel   = " + tersCumle);
+
+        Collator trCollator = Collator.getInstance(new Locale("tr", "TR"));
+        trCollator.setStrength(Collator.PRIMARY);
+
+        kelimeList.sort(trCollator);
+        System.out.println("5- A'dan Z'ye kelimelerin yazilimi      = " + kelimeList);
+
+        kelimeList.sort(trCollator.reversed());
+        System.out.println("6- Z'den A'ya kelimelerin tersten yazilimi = " + kelimeList);
+
+        String tersCumlem = new StringBuilder(String.valueOf(tersCumle)).reverse().toString();
+
+        System.out.println("7- Ters Çevrilmiş Cümle                  = " + tersCumlem);
+
+
+        System.out.println("\nHer kelimenin ilk harfi büyük:");
+        for (String kelime : kelimeList) {
+            String kelimeBüyük = kelime.substring(0, 1).toUpperCase() + kelime.substring(1);
+            System.out.print(kelimeBüyük + " ");
         }
 
+        // 4. Cümledeki kelimelerin sadece ilk harflerini yazdırma
+        System.out.println("\n\nCümledeki kelimelerin ilk harfleri:");
+        for (String kelime : kelimeList) {
+            System.out.print(kelime.charAt(0) + " ");
+        }
+
+
+
+
+
+
+
+
+
+        /*
 
 /*
 
