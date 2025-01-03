@@ -2,7 +2,7 @@ package benimcalismalarim.yilbasitatili;
 
 import java.util.Scanner;
 
-public class Switch {
+public class Yb08Switch {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 

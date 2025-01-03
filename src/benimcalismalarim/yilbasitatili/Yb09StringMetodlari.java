@@ -1,11 +1,7 @@
 package benimcalismalarim.yilbasitatili;
 
-import java.util.ArrayList;
-import java.util.Arrays;
 
-
-
-public class StrinTumMetodlari {
+public class Yb09StringMetodlari {
     public static void main(String[] args) {
        /* // Soru: Verilen bir string'in uzunluğunu döndüren bir metot yazınız.
         // Örneğin, "merhaba" verildiğinde 7 döndürülmelidir.

@@ -3,7 +3,7 @@ package benimcalismalarim.yilbasitatili;
 import java.text.Collator;
 import java.util.*;
 
-public class StringMethodlari02 {
+public class bak02 {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         /*//Task 1:Cümledeki kelimeleri alfabetik sıraya göre yazdırın.

@@ -1,13 +1,13 @@
 package benimcalismalarim.yilbasitatili;
 
-public class Methodlar {
+public class Yb10Methodlar {
     public static void main(String[] args) {
 
 int sonuc = toplamAl(8,9);
         System.out.println("sonuc = " + sonuc);
 
         String isim = "Mehmet";
-        Methodlar.selamVer(isim);
+        Yb10Methodlar.selamVer(isim);
         int a =8;
         int sonuc1 = kareAl(a);
         System.out.println(a+" sayinin karesi  = " + sonuc1);

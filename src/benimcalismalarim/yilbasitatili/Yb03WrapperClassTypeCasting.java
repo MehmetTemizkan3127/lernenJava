@@ -1,7 +1,7 @@
 package benimcalismalarim.yilbasitatili;
 
 
-public class WrapperClassTypeCasting {
+public class Yb03WrapperClassTypeCasting {
     public static void main(String[] args) {
     /*
 

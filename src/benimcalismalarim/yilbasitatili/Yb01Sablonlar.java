@@ -1,10 +1,12 @@
 package benimcalismalarim.yilbasitatili;
 
-public class Soblonlar {
+public class Yb01Sablonlar {
     /*
     1- ARRAY        ===> int [] sayilar = new int[]{80,20,40,50,30};
-    2- ARRAYLIST    ===> ArrayList<Integer> numbers = new ArrayList<>(6);
-    3- LIST         ===> List<String> items = new ArrayList<>();
+    2- ARRAYLIST    ===> ArrayList<Integer> hayvanlar = new ArrayList<>(6);
+    3- LIST         ===> List<String> numaralar = new ArrayList<>(5);
+    4- LOCALDATE    ===> LocalDate bugun = LocalDate.now();
+
 
 
 

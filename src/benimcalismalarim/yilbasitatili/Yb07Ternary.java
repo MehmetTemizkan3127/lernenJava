@@ -2,7 +2,7 @@ package benimcalismalarim.yilbasitatili;
 
 import java.util.Scanner;
 
-public class Ternary {
+public class Yb07Ternary {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

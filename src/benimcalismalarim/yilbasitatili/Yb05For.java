@@ -1,10 +1,8 @@
 package benimcalismalarim.yilbasitatili;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Scanner;
 
-public class For {
+public class Yb05For {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         //1'den 50'ye kadar olan tek sayıları ekrana yazdırın.

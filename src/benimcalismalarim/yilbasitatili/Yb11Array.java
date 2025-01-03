@@ -3,7 +3,7 @@ package benimcalismalarim.yilbasitatili;
 import java.util.Arrays;
 import java.util.List;
 
-public class Array {
+public class Yb11Array {
     public static void main(String[] args) {
 
         int [] sayilar = new int[]{20,80,20,60,20};

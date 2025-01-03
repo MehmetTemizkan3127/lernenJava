@@ -1,8 +1,6 @@
 package benimcalismalarim.yilbasitatili;
 
-import java.util.Arrays;
-
-public class JavaNotlar {
+public class Yb02JavaNotlar {
     // trim ile strip ayni görevi görüyor.
     // isEmty ile isBlank benzer görevler görüyor (isEmty false-treu <--- " " ve "" ---> isBlank treu-treu)
     // String.format(%s seviyorum, str(Seni)).sout ---> Seni seviyorum
@@ -39,7 +37,12 @@ public class JavaNotlar {
     //                               (List.of("Kedi", "Köpek", "Kaplan", "Fil"));       eleman ekleme
     // 4- remove();             ===> yeniHayvanlar.remove(2);                           indeksle
     // 4- remove();             ===> yeniHayvanlar.remove("Balina");                    obje ile
-
+    // 5- set                   ===> yeniHayvanlar1.set(0,"Kelebek");                   secilen indekse yeni eleman atanir
+    // 6- get                   ===> yeniHayvanlar1.get(0);                             yeni degiskeni eleman olarak ceker
+    // 7- size                  ===> yeniHayvanlar1.size();                             Array'in eleman sayisini verir
+    // 8- clear();              ===> hayvanlar.clear();                                 secilen Arra''i temizler
+    // 9-                       ===> yeniHayvanlar.contains                             yazilan metin var mi yokmu
+    // 10                       ===> hayvanlar.isEmpty());                              Array bos mu degilmi
 
 
 }

@@ -2,7 +2,7 @@ package benimcalismalarim.yilbasitatili;
 
 import java.util.Scanner;
 
-public class If {
+public class Yb06If {
     public static void main(String[] args) {
         //Yaş Kontrolü:
         //Kullanıcıdan yaşını alın. Eğer 18 yaşından büyükse "Ehliyet alabilirsiniz." yazdırın,

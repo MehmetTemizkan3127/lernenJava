@@ -1,6 +1,6 @@
 package benimcalismalarim.yilbasitatili;
 
-public class MathOperator {
+public class Yb04MathOperator {
     public static void main(String[] args) {
         int sayi = 2468;
         System.out.println("sayi    = " + sayi);

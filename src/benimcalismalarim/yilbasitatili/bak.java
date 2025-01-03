@@ -1,8 +1,6 @@
 package benimcalismalarim.yilbasitatili;
 
-import java.util.Arrays;
-
-public class calisma1 {
+public class bak {
     public static void main(String[] args) {
        /* String str = "Salih java ögreniyor";
         System.out.println("Orjinal Metin   = " + str);
