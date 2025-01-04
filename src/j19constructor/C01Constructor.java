@@ -21,7 +21,7 @@ public class C01Constructor {
         System.out.println(name + " ilgili kişiyi selamla");
     }
     public void dersCalis(){
-        System.out.println(okulAdi +" okulundaki "+name + " artık "+ age+ "yasidasın kendin çalışmalısın");
+        System.out.println(okulAdi +" okulundaki "+name + " artık "+ age+ "yasindasın kendin çalışmalısın");
     }
 
     public static void main(String[] args) {
