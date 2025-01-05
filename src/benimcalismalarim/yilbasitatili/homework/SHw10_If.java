@@ -2,7 +2,7 @@ package benimcalismalarim.yilbasitatili.homework;
 
 import java.util.Scanner;
 
-public class SHw10_ {
+public class SHw10_If {
     public static void main(String[] args) {
         // ************************** Task 01 ***********************************
         /* TASK->
@@ -16,17 +16,47 @@ public class SHw10_ {
               Kullanıcıdan ara sınav notunu, final notunu ve proje notunu girmesini isteyin.
               Genel notu hesaplayın (ara sınav: %30, proje: %20, final: %50).*/
         Scanner scanner = new Scanner(System.in);
-        System.out.println("Lütfen vize notunuzu giriniz = ");
-        double vizeNotu = scanner.nextDouble();
+        double vizeNotu, finalNotu,projeNotu;
 
-        System.out.println("Lütfen final notunuzu giriniz = ");
-        double finalNotu = scanner.nextDouble();
+        while (true) {
+            System.out.println("Lütfen vize notunuzu giriniz (1-100 arasında): ");
+            vizeNotu = scanner.nextDouble();
+            if (vizeNotu >= 1 && vizeNotu <= 100) {
+                break; // Geçerli bir giriş yapıldığında döngüyü sonlandır
+            }
+            // Hatalı giriş durumunda mesaj göster ve tekrar sor
+            System.out.println("Hatalı giris yaptiniz!");
+        }
 
-        System.out.println("Lütfen final notunuzu giriniz = ");
-        double projeNotu = scanner.nextDouble();
+        while (true) {
+            System.out.println("Lütfen final notunuzu giriniz (1-100 arasında): ");
+            finalNotu = scanner.nextDouble();
+            if (finalNotu >= 1 && finalNotu <= 100) {
+                break;
+            } else {
+                System.out.println("Hatalı giris yaptiniz!");
+            }
+        }
 
-        double genelNot = vizeNotu*0.3 + projeNotu*0.2+finalNotu*0.5;
-        System.out.println("genelNot = " + genelNot);
+        while (true) {
+            System.out.println("Lütfen proje notunuzu giriniz (1-100 arasında): ");
+            projeNotu = scanner.nextDouble();
+            if (projeNotu >= 1 && projeNotu <= 100) {
+                break;
+            } else {
+                System.out.println("Hatalı giris yaptiniz!");
+            }
+        }
+        double genelNot = vizeNotu * 0.3 + projeNotu * 0.2 + finalNotu * 0.5;
+
+        if (genelNot > 60 && genelNot <= 100) {
+            System.out.println("Notunuz " + genelNot + " Tebrikler gectiniz");
+
+        } else if (genelNot<60){
+            System.out.println("Ortalamaniz = " + genelNot + " Ve gecme notu 60 oldugu icin maalesef kaldiniz");
+        }else {
+            System.out.println("Lütfen karekter olarak rakam giriniz");
+        }
 
         // ************************** Task 02 ***********************************
            /*
