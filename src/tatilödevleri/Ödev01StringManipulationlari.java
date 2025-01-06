@@ -1,7 +1,9 @@
-package benimcalismalarim.yilbasitatili.homework;
+package tatilödevleri;
 
-public class SHw50_StringManipulationlari {
-    public static void main(String[] args) {
+import java.util.Scanner;
+
+public class Ödev01StringManipulationlari {
+    public static <StrinBuilder> void main(String[] args) {
         /*Soru 1:
         Aşağıdaki string üzerinde belirtilen metodları kullanarak işlemleri gerçekleştirin:
         String text = "  Java String Manipulation Exercise  ";
@@ -63,32 +65,69 @@ public class SHw50_StringManipulationlari {
         Aşağıdaki string üzerinde belirtilen kontrolleri gerçekleştirin:
         String password = "Secure@123";
         1. String boş mu?
-                2. String "@" sembolünü içeriyor mu?
-                3. String sadece sayılardan mı oluşuyor?
-                4. String’in uzunluğu 8 karakterden fazla mı?
-### **Soru 5:**
-        Aşağıdaki string’i boşluk karakterlerine göre ayırarak bir dizi oluşturun ve ardından kelimeleri virgülle birleştirerek ekrana yazdırın:
-```
+        2. String "@" sembolünü içeriyor mu?
+        3. String sadece sayılardan mı oluşuyor?
+        4. String’in uzunluğu 8 karakterden fazla mı?*/
+
+        String password = "Secure@123";
+        System.out.println("1- String bos mu kontrolü yapildi           = "+password.isEmpty());
+        System.out.println("2- String'te @ isareti var mi?              = "+password.contains("@"));
+        System.out.println("3- String sadece sayilardan mi olusuyor?    = "+password.matches("\\d+"));
+
+        String sonuc = (password.length() > 8)
+                        ? "String 8 karakterden fazla."
+                        : "String 8 karakterden fazla değil.";
+        System.out.println("4- String 8 karakterden fazla mı?           = " + sonuc);
+
+
+        /*Soru 5:
+        Aşağıdaki string’i boşluk karakterlerine göre ayırarak bir dizi oluşturun ve
+        ardından kelimeleri virgülle birleştirerek ekrana yazdırın:
         String data = "Apple Banana Cherry Date";
-```
-**Beklenen Çıktı:** `Apple,Banana,Cherry,Date`
-### **Soru 6:**
-        Bir kullanıcının girdiği e-posta adresini kontrol eden bir program yazın. Program aşağıdaki kuralları kontrol etmelidir:
+        **Beklenen Çıktı:** `Apple,Banana,Cherry,Date`*/
+
+        String data = "Apple Banana Cherry Date";
+        String[]kelimeler = data.split(" ");
+        String sonuc1 = String.join(",", kelimeler);
+        System.out.println("Kelimeler                                   = " + sonuc1);
+
+
+
+        /*Soru 6:
+        Bir kullanıcının girdiği e-posta adresini kontrol eden bir program yazın. Program aşağıdaki kuralları
+        kontrol etmelidir:
         - E-posta "@" sembolü içermelidir.
         - E-posta ".com" uzantısı ile bitmelidir.
                 - Boşluk karakteri içermemelidir.
-**Örnek Çıktı:**
-```
-        Geçerli e-posta adresi!
-```
-### **Soru 7:**
+        **Örnek Çıktı:**
+        Geçerli e-posta adresi!*/
+
+        Scanner scanner = new Scanner(System.in);
+        System.out.println("Lütfen mail adresinizi giriniz              = ");
+        String mailAdresi = scanner.nextLine().trim();
+
+
+        if (mailAdresi.contains("@") &&
+                mailAdresi.endsWith(".com") &&
+                !mailAdresi.contains(" ")) {
+
+            System.out.println("Mail adresiniz gecerlidir");
+        } else {
+            System.out.println("Maalesef mail adresiniz geçersizdir. Yeniden deneyiniz.");
+        }
+
+
+        /*Soru 7:**
         Bir cümledeki tüm kelimeleri ters çeviren bir Java programı yazın.
-**Girdi:**
-```
+        **Girdi:**
         Java is fun
-```
-**Çıktı:**
-```
+        **Çıktı:**
         avaJ si nuf*/
+        String cumle = "Java is fun";
+
+        String tersCümle = new StringBuilder(cumle).reverse().toString();
+        System.out.println("Ters cevrilmis cümle: " + tersCümle);
+        }
+
     }
-}
+
