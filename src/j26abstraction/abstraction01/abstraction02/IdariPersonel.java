@@ -1,4 +1,4 @@
-package j26abstraction.abstraction02;
+package j26abstraction.abstraction01.abstraction02;
 
 public class IdariPersonel extends Personel{
     int tecrübe = 15;
