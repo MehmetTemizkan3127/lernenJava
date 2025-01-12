@@ -1,6 +1,6 @@
-package j27interface;
+package j27interface.interface01;
 
-public class Sahin extends Tofask implements DisDonanim,IcDonanim,Lastik{
+public class Sahin extends Tofask implements DisDonanim, IcDonanim, Lastik {
     @Override
     public void motor() {
         System.out.println("Pekde güçlü değil");

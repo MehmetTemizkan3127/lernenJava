@@ -1,4 +1,4 @@
-package j27interface;
+package j27interface.interface01;
 
 public interface DisDonanim {
 
