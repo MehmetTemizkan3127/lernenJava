@@ -1,7 +1,6 @@
 package j28Iterators;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Iterator;
 import java.util.List;
 
@@ -132,9 +131,6 @@ public class C01Iterators {
 
         System.out.println(classList);
 
-        System.out.println("*** Task 06 ***");
-        //Task06-> l2  elemanlarını :-) update edip  print eden code create ediniz.
-        List<String> l2 = new ArrayList<>(Arrays.asList("javaCAN", "javvaNUR", "javaNAZZZ", "javaSU", "javaHAN", "javaZADE", "javaTAR", "javaLAZIM"));
 
     }
 }

@@ -1,13 +1,11 @@
 package javanotlari;
 
-import java.awt.*;
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
 
-public class Ornek {
+public class Append_Cast {
     public static void main(String[] args) {
 
         //String'in StringBuilder'a ve sonra tekrar String'e cevrilmesi
@@ -63,10 +61,26 @@ public class Ornek {
         String str2 = sb2.toString();
         System.out.println("StringBuilder Stringe cevrildi              = " + str2);
 
-        String[] arrayString = str2.split(" ");  // Elemanları boşlukla ayır
-        for (String s : arrayString) {
-            System.out.print(s);
-        }
+
+        System.out.println();
+        //ArrayList'in StringBuilder'a ve sonra tekrar String'e cevrilmesi
+        ArrayList<String> sebzeList = new ArrayList<>();
+        sebzeList.add("Patlican");
+        sebzeList.add("Kabak");
+        sebzeList.add("Domates");
+        sebzeList.addAll(Arrays.asList("Karnibahar", "Lahana"));
+        sebzeList.addAll(List.of("Sogan", "Sarimsak"));
+        System.out.println("ArrayList yazdiriliyor                      = " + sebzeList);
+
+        String sonuc2 = String.join(", ", sebzeList);
+        StringBuilder sb3 = new StringBuilder(sonuc2);
+        System.out.println("ArrayList StringBuilder'a cevrildi          = " + sb3); //ArrayList StringBuilder'a cevrildi
+        sb3.append(", Marul" +", Brokoli");
+        System.out.println("StringBuilder ekleme sonrasi yazdiriliyor   = " + sb3);
+
+
+
+
 
 
 
