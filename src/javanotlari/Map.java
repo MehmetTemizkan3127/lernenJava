@@ -61,5 +61,49 @@ public class Map {
 
         boolean bosMu1 = map1.isEmpty();
         System.out.println("Clear sonrasi bos mu                    = " + bosMu1);
+
+        map1.put("Ali", 25);
+        map1.put("Feyza", 25);
+        map1.put("Veli", 60);
+        map1.put("Feyza", 30);
+        System.out.println("Put ile eklenen map                     = " + map1);
+
+        System.out.println("Key varsa degistirir                    = "+map1.replace("Feyza", 30,15));
+        System.out.println("Key yoksa degistirmez                   = "+map1.replace("feyza", 30,15));
+        System.out.println("map1 = " + map1);
+
+        map1.remove("Feyza", 15);
+        map1.remove("feyza", 15);
+        System.out.println(map1);
+
+        System.out.println(map1.putIfAbsent("Ali", 25));
+        System.out.println(map1);
+
+
+
+
+
+
+
+
+
+
+
+
+
+        //HASTABLE
+        Hashtable<String, Integer> hashtable = new Hashtable<>();
+        hashtable.put("Amazon", 125);
+        hashtable.put("Otto", 135);
+        hashtable.put("Saturn", 155);
+        hashtable.put("Amazon", 145);
+        //hashtable.put(null,100); //NullPointerException
+        //hashtable.put("Null",null); //NullPointerException
+
+        System.out.println(hashtable.containsValue(155));
+
+
+        System.out.println(hashtable);
+
     }
 }
