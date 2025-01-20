@@ -1,4 +1,4 @@
-package javanotlari;
+package javacalismalarim.javanotlarim;
 
 import java.util.*;
 

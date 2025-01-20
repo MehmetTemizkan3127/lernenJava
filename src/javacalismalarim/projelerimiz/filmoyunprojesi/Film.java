@@ -1,4 +1,4 @@
-package j100projects.project04;
+package javacalismalarim.projelerimiz.filmoyunprojesi;
 
 import java.util.*;
 

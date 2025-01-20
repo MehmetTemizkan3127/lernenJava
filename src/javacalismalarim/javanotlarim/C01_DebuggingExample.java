@@ -1,4 +1,4 @@
-package javanotlari;
+package javacalismalarim.javanotlarim;
 
 public class C01_DebuggingExample {
     public static void main(String[] args) {

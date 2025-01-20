@@ -1,4 +1,4 @@
-package javanotlari;
+package javacalismalarim.javanotlarim;
 
 public class Varargslar {
     public static void main(String[] args) {

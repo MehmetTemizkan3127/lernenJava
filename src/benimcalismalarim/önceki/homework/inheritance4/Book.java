@@ -15,6 +15,9 @@ public class Book extends LibraryItem {
         this.pages = pages;
     }
 
+    public Book(String name, String author) {
+    }
+
     @Override
     public void displayInfo() {
         super.displayInfo();

@@ -1,4 +1,4 @@
-package j100projects.project04;
+package javacalismalarim.projelerimiz.filmoyunprojesi;
 
 /**
  * The Runner class is the entry point of the application where the program starts.

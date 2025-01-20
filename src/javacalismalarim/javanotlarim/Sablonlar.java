@@ -1,4 +1,4 @@
-package javanotlari;
+package javacalismalarim.javanotlarim;
 
 public class Sablonlar {
     /*

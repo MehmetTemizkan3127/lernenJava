@@ -1,6 +1,4 @@
-package javanotlari;
-
-import java.util.Scanner;
+package javacalismalarim.javanotlarim;
 
 public class J01 {
     public static void main(String[] args) {
