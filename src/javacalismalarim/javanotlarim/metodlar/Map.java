@@ -283,17 +283,18 @@ public class Map {
   bir sınıfın hangi metotları sağlaması gerektiğini belirtir.
 
   Interface İçindeki Metot Türleri
-- Abstract Method - Soyut Metot
-- Default Method - Varsayılan Metot
-- Static Method - Statik Metot
-- Private Method - Özel Metot
+- Abstract Method   - Soyut Metot
+- Default Method    - Varsayılan Metot
+- Static Method     - Statik Metot
+- Private Method    - Özel Metot
 
   Interface Metotları
-- abstract - Tanımsız Metot
-- default - Varsayılan Metot Gövdesi
-- static - Statik Metot Gövdesi
-- private - Özel Yardımcı Metot
-- @FunctionalInterface - Fonksiyonel Arayüz Anotasyonu
+- abstract              - Tanımsız Metot
+- default               - Varsayılan Metot Gövdesi
+- static                - Statik Metot Gövdesi
+- private               - Özel Yardımcı Metot
+- @FunctionalInterface  - Fonksiyonel Arayüz Anotasyonu
+
   Interface'deki soyut metotlar gövdesizdir ve implementasyon sınıfında @Override ile
   geçersiz kılınmalıdır. Varsayılan ve statik metotlar, Java 8 ile eklenmiştir ve arayüzde
   gövdeye sahip olabilir.
@@ -301,4 +302,7 @@ public class Map {
 
      */
 }
+
+
+
 
