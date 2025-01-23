@@ -1,4 +1,4 @@
-package j30maps.tasks;
+package j30maps.tasks01;
 
 
 import java.util.*;

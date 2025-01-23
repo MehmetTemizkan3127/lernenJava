@@ -1,6 +1,4 @@
-package j100projects.project04.version2;
-
-import java.util.Scanner;
+package j100projects.project05.version2;
 
 public class Action {
 

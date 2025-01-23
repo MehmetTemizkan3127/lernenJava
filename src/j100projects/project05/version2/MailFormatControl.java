@@ -1,4 +1,4 @@
-package j100projects.project04.version2;
+package j100projects.project05.version2;
 
 public class MailFormatControl {
 

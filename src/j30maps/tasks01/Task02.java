@@ -1,7 +1,6 @@
-package j30maps.tasks;
+package j30maps.tasks01;
 
 import java.util.HashMap;
-import java.util.LinkedHashMap;
 
 public class Task02 {
     public static void main(String[] args) {

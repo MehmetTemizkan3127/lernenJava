@@ -1,6 +1,7 @@
 package j19constructor;
 
 public class C04Teacher {
+
     String ad;
     String soyad;
     String brans;
