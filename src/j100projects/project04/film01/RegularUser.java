@@ -1,4 +1,4 @@
-package j100projects.project04.version1;
+package j100projects.project04.film01;
 
 /**
  * Represents a regular user in the system with specific functionalities.

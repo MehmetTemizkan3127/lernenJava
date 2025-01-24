@@ -15,4 +15,8 @@ public class UserLogin implements UserActions {
 
         return 0;
     }
+
+    public User loginOrRegister() {
+        return null;
+    }
 }
