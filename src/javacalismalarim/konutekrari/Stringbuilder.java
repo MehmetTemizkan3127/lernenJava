@@ -1,6 +1,9 @@
 package javacalismalarim.konutekrari;
 
 public class Stringbuilder {
+    public Stringbuilder(String meyve) {
+    }
+
     public static void main(String[] args) {
 
         StringBuilder adSoyad = new StringBuilder();
@@ -43,5 +46,9 @@ public class Stringbuilder {
 
 
 
+    }
+
+    public String reverse() {
+        return null;
     }
 }
