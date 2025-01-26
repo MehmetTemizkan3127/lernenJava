@@ -1,4 +1,4 @@
-package javacalismalarim.konutekrari;
+package javacalismalarim.sinavhazirliklari;
 
 public class StringTerstenYazdirma {
     public static void main(String[] args) {
