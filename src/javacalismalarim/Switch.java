@@ -2,7 +2,7 @@ package javacalismalarim;
 
 import java.util.Scanner;
 
-public class Dammy {
+public class Switch {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         //Task 1: Kullanıcıdan bir ay numarası alın (1-12) ve bu numaraya karşılık gelen ay ismini "switch" kullanarak
