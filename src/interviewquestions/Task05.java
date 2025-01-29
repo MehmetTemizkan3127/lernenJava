@@ -1,8 +1,6 @@
-package interviwquestions;
+package interviewquestions;
 
 import java.util.Arrays;
-
-import static interviwquestions.Task02.findDuplicates;
 
 public class Task05 {
     public static void main(String[] args) {
