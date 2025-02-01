@@ -1,4 +1,4 @@
-package j33lambda;
+package j33lambdaexpressions.lambda;
 @FunctionalInterface
 public interface MathOperations {
     double calculate(int a,int b);

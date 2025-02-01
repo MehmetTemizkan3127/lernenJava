@@ -1,4 +1,4 @@
-package j33lambda;
+package j33lambdaexpressions.lambda;
 
 import java.util.*;
 import java.util.function.*;

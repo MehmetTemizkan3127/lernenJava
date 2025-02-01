@@ -1,4 +1,4 @@
-package j33lambda.dammy;
+package j33lambdaexpressions.dammy;
 
 import java.util.function.BiFunction;
 

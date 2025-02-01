@@ -1,4 +1,4 @@
-package j33lambda;
+package j33lambdaexpressions.lambda;
 
 public class C02MyFuncInterface {
 

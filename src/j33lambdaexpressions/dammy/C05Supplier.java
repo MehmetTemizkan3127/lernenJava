@@ -1,6 +1,6 @@
-package j33lambda.dammy;
+package j33lambdaexpressions.dammy;
 
-import j33lambda.Person;
+import j33lambdaexpressions.lambda.Person;
 
 import java.util.ArrayList;
 import java.util.List;
