@@ -26,7 +26,7 @@ public class C07StreamApi {
 
 
         System.out.println("\n***Task04****");
-        SeedMethods.yazdir(sayiList);
+        SeedMethods.println(sayiList);
     }
 
     private static void listiAradaBoslukIleFonksiyonelYazdır2(List<Integer> sayiList) {

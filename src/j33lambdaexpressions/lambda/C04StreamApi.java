@@ -1,5 +1,7 @@
 package j33lambdaexpressions.lambda;
 
+import methods.SeedMethods;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -28,7 +30,7 @@ public class C04StreamApi {
     private static void listiAradaBoslukIleFonksiyonelYazdır3(List<Integer> sayiList) {
         sayiList.               // Akışa almak istediğim Collection call edilidi
                 stream().       // Collection akışa alındı
-                forEach(SeedMethods::yazdir); // akıştaki herbir elemanı method referans ile sout içinde yazdırdı
+                forEach(SeedMethods::println); // akıştaki herbir elemanı method referans ile sout içinde yazdırdı
 
     }
 

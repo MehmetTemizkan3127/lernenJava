@@ -1,5 +1,7 @@
 package j33lambdaexpressions.lambda;
 
+import methods.SeedMethods;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -23,7 +25,7 @@ public class C06Map {
                 .stream()
                 .filter(Predicate.not(SeedMethods::ciftMi))
                 .map(t -> t*t*t + 1)
-                .forEach(SeedMethods::yazdir);
+                .forEach(SeedMethods::println);
 
 
         System.out.println("\n****Task03****");
@@ -33,7 +35,7 @@ public class C06Map {
                 .stream()
                 .filter(SeedMethods::ciftMi)
                 .map(t -> Math.sqrt(t))
-                .forEach(SeedMethods::yazdir);
+                .forEach(SeedMethods::println);
     }
 
     private static void ciftSayilarinKaresiniYazdir(List<Integer> sayiList) {
@@ -41,7 +43,7 @@ public class C06Map {
                 .stream()
                 .filter(SeedMethods::ciftMi)
                 .map(SeedMethods::karesiniAl)
-                .forEach(SeedMethods::yazdir);
+                .forEach(SeedMethods::println);
 
         //.map(t-> Math.pow(t,2))
 

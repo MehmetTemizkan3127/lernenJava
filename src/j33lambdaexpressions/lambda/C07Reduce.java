@@ -1,5 +1,7 @@
 package j33lambdaexpressions.lambda;
 
+import methods.SeedMethods;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

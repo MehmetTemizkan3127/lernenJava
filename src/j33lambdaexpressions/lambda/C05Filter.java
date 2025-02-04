@@ -1,5 +1,7 @@
 package j33lambdaexpressions.lambda;
 
+import methods.SeedMethods;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
@@ -38,7 +40,7 @@ public class C05Filter {
         sayiList.
                 stream().
                 filter(t-> t>num || t%2!=0).
-                forEach(SeedMethods::yazdir);
+                forEach(SeedMethods::println);
     }
 
     private static void ndenKucukCiftSayilariYazdir(List<Integer> sayiList, int num) {
@@ -46,7 +48,7 @@ public class C05Filter {
                 stream().
                 filter(SeedMethods::ciftMi).
                 filter(t -> t< num).
-                forEach(SeedMethods::yazdir);
+                forEach(SeedMethods::println);
                 // filter(t -> t<num && t%2==0)
     }
 
@@ -54,7 +56,7 @@ public class C05Filter {
         sayiList.
                 stream().                       // Collection akışa alındı
                 filter(SeedMethods::ciftMi).    // Akışdaki elemanları çift olma durumlarıına göre filtreledik
-                forEach(SeedMethods::yazdir);   // Süzülen elemanları teker teker yazdırdık
+                forEach(SeedMethods::println);   // Süzülen elemanları teker teker yazdırdık
 
                 //filter(t-> t%2 == 0).
 
