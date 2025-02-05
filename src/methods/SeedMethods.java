@@ -5,6 +5,10 @@ public class SeedMethods {
         System.out.println(element+ " ");
     }
 
+    public static <T> void print(T element) {
+        System.out.print(element+ " ");
+    }
+
     public static int bolunenleriCarp(int a, int b ){
         return a * b;
     }
