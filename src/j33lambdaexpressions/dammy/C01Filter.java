@@ -1,6 +1,6 @@
 package j33lambdaexpressions.dammy;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
 import java.util.ArrayList;
 import java.util.Arrays;

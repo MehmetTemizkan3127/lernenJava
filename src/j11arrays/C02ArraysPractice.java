@@ -1,3 +1,5 @@
+package j11arrays;
+
 import java.util.Arrays;
 
 public class C02ArraysPractice {

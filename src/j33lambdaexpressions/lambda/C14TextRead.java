@@ -1,6 +1,6 @@
 package j33lambdaexpressions.lambda;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
 import java.io.IOException;
 import java.nio.file.Files;

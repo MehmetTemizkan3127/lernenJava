@@ -1,4 +1,4 @@
-package j29collections.lists;
+package j29collections;
 
 import java.util.ArrayList;
 import java.util.Arrays;

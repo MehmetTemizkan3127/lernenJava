@@ -1,13 +1,12 @@
 package j101homework;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Collectors;
 
-import static methods.SeedMethods.rastgeleSayiEkle;
+import static j103methods.SeedMethods.rastgeleSayiEkle;
 
 public class Task250203_05_StreamMap {
     public static void main(String[] args) {

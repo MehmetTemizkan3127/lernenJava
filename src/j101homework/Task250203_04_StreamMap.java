@@ -1,11 +1,10 @@
 package j101homework;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-import java.util.stream.Stream;
 
 public class Task250203_04_StreamMap {
     public static void main(String[] args) {

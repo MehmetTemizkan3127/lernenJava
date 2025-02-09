@@ -1,7 +1,5 @@
 package j101homework;
 
-import methods.SeedMethods;
-
 import java.util.List;
 import java.util.stream.Collectors;
 

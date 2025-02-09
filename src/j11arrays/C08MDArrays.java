@@ -1,3 +1,5 @@
+package j11arrays;
+
 public class C08MDArrays {
     //Task-> int arr[][]={
     //                {3,5},//0. kat

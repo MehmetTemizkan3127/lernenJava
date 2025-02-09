@@ -1,6 +1,6 @@
 package j101homework;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
 import java.util.ArrayList;
 import java.util.Arrays;

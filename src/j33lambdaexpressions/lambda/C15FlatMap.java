@@ -1,8 +1,7 @@
 package j33lambdaexpressions.lambda;
 
-import methods.SeedMethods;
+import j103methods.SeedMethods;
 
-import java.io.IOException;
 import java.util.Arrays;
 
 import static j33lambdaexpressions.lambda.C14TextRead.dosyaAkisi;

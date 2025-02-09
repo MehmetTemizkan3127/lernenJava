@@ -1,4 +1,4 @@
-package j24inheritance.tasks.task02;
+package j24inheritance.tasks;
 
 import java.util.ArrayList;
 import java.util.List;

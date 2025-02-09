@@ -1,7 +1,5 @@
 package j101homework;
 
-import methods.SeedMethods;
-
 import java.util.*;
 
 public class Task250204_02_Reduce {
