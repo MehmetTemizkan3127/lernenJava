@@ -5,12 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06833108-e6b4-4a1c-b5cf-f8f06b8f9db0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/j101homework/consructor01bmi/BmiRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1028_01_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Switch01Gun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/If01KelimeBasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng01BUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng02Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng03ReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng04Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng05Contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng06Substrıng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hw1212_01/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor01bmi/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hw1212_01/BmiRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hwgezituru/GeziTuru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziTuru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hwgezituru/GeziUcakBileti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziUcakBileti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/LibraryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/tatilprogrami/ReservationProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/ReservationProgram.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,28 +69,45 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Append_Cast.executor": "Run",
-    "Application.karalama.executor": "Run",
+    "Application.BmiRunner.executor": "Run",
+    "Application.GeziTuru.executor": "Run",
+    "Application.GeziUcakBileti.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main (2).executor": "Run",
+    "Application.Main (3).executor": "Run",
+    "Application.Main (4).executor": "Run",
+    "Application.Main (5).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.ReservationProgram.executor": "Run",
+    "Application.karalama.executor": "Debug",
     "Application.test (1).executor": "Run",
     "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.preview.features.used": "true",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/mehme/IdeaProjects/lernenJava/src/ocasinavsorulari",
     "onboarding.tips.debug.path": "C:/Users/mehme/IdeaProjects/lernenJava/src/Main.java",
     "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src\ocasinavsorulari" />
+      <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.test (1)">
-    <configuration name="Append_Cast" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacalismalarim.konutekrari.Append_Cast" />
+  <component name="RunManager" selected="Application.ReservationProgram">
+    <configuration name="BmiRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j101homework.consructor01bmi.BmiRunner" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacalismalarim.konutekrari.*" />
+          <option name="PATTERN" value="j101homework.consructor01bmi.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="karalama" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javacalismalarim.dummy.karalama" />
+    <configuration name="GeziTuru" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j101homework.homework.hwgezituru.GeziTuru" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="javacalismalarim.dummy.*" />
+          <option name="PATTERN" value="j101homework.homework.hwgezituru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +128,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j24inheritance.tasks.test" />
+    <configuration name="GeziUcakBileti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j101homework.homework.hwgezituru.GeziUcakBileti" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j24inheritance.tasks.*" />
+          <option name="PATTERN" value="j101homework.homework.hwgezituru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +141,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j24inheritance.tasks.test" />
+    <configuration name="ReservationProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j101homework.consructor02gezituru.ReservationProgram" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j24inheritance.tasks.*" />
+          <option name="PATTERN" value="j101homework.consructor02gezituru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,10 +156,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test (1)" />
-        <item itemvalue="Application.test" />
-        <item itemvalue="Application.Append_Cast" />
-        <item itemvalue="Application.karalama" />
+        <item itemvalue="Application.ReservationProgram" />
+        <item itemvalue="Application.GeziUcakBileti" />
+        <item itemvalue="Application.GeziTuru" />
+        <item itemvalue="Application.BmiRunner" />
       </list>
     </recent_temporary>
   </component>
