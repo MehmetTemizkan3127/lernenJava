@@ -5,43 +5,271 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06833108-e6b4-4a1c-b5cf-f8f06b8f9db0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/j101homework/consructor01bmi/BmiRunner.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1028_01_Switch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Switch01Gun.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/If01KelimeBasi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng01BUpperCase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng02Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1029_04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng03ReplaceAll.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng04Length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng05Contains.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1030_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/homework/Strıng06Substrıng.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hw1212_01/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor01bmi/Bmi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hw1212_01/BmiRunner.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hwgezituru/GeziTuru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziTuru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/hwgezituru/GeziUcakBileti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziUcakBileti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance1/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/ElectricCar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance2/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance02car/Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance03person/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/LibraryItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Magazine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance4/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance04library/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/inheritance5/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/lessons/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/tatilprogrami/ReservationProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/ReservationProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/java/JavaTemel01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/java/JavaTemel02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/iff/If03BuyukYas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw04_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw05_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw06_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw07_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw08_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw09_Wrapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/wrapper/Wrapper06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/SHw10_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/iff/If04VizeFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task2201_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/map/Map01HashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task2201_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/map/Map02LinkedHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task2201_03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/map/Map03LinkedHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task2301_01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/map/Map04Map.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task2301_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/map/Map05TreeMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250203_01_StreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda01StreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250203_02_StreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda04StreamMapFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250203_03_StreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda03StreamMapFilter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250203_04_StreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda02StreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250203_05_StreamMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda05StreamMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250204_01_StreamReduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda06StreamReduceOrElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250204_02_Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda07StreamMapReduceIfPresent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250205_01_Reduce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda08StreamReduceOrElse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250205_02_Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda09StreamMapFilterCollect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/Task250205_03_Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/lambda/Lambda10StreamFilterCollect.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract01/Cember.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract01/Cember.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract01/Dikdörtgen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract01/Dikdörtgen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract01/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract01/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract01/Sekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract01/Sekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Divide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Divide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Multiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Multiply.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Substract.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Substract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/abstract02/Sum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/abstractt/abstract02/Sum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor01bmi/Bmi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor01bmi/Bmi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor01bmi/BmiRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor01bmi/BmiRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziTuru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor02gezituru/GeziTuru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/GeziUcakBileti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor02gezituru/GeziUcakBileti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor02gezituru/ReservationProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor02gezituru/ReservationProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor03lessons/Lesson.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor03lessons/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/consructor03lessons/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor03lessons/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Breack01Sayi50Ustu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/breackcontinue/Breack01Sayi50Ustu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/BreackContinue02NegatifiAtla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/breackcontinue/BreackContinue02NegatifiAtla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/BreackContinue03SayiBuyukseSonlan.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/breackcontinue/BreackContinue03SayiBuyukseSonlan.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/BreackContinue04BirKelimeyiAtlama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/breackcontinue/BreackContinue04BirKelimeyiAtlama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/For01CiftSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/forr/For01CiftSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/For02RakamSayisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/forr/For02RakamSayisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/For03Bölünebilme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/forr/For03Bölünebilme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/For04DogalSayiToplam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/forr/For04DogalSayiToplam.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/For05TekSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/forr/For05TekSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_01_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/arraylist/ArrayList01TekrarSayisi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_02_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/arraylist/ArrayList02Toplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_03_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/arraylist/ArrayList04Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_04_ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/arraylist/ArrayList03KelimeyiSetEtme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_05_Vorargs_Metod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/vorargs/VorargsMetod01ToplamaCarpma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_06_Vorargs_Metod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/vorargs/VorargsMetod02SayiVeLengthCArpma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1127_07_Vorargs_Metod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/vorargs/VorargsMetod03IlkHarfYazdirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1129_01_DateTimeNano.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/datetime/DateTimeNano01NanoSureHesapla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1202_01_HaftalikKazancMetodu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/arraylist/ArrayList05HaftalikKazancMetodu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Hw_1207_TatilRezervasyonu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/consructor/consructor02gezituru/TatilRezervasyonu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/If01CıftSayi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/iff/If01CıftSayi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/If01KelimeBasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/iff/If02KelimeBasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/M_1129_02_DateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/datetime/DateTimeFormatter02OncesiniVeSonrasiniHesapla.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/NestedFor01AsciiDeger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/nestedfor/NestedFor01AsciiDeger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/NestedFor02UcgenSekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/nestedfor/NestedFor02UcgenSekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/NestedFor03SayiUcgenSekil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/nestedfor/NestedFor03SayiUcgenSekil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/String09EnSonChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/String09EnSonChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng01BUpperCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng01BUpperCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng02Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng02Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng03ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng03ReplaceAll.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng04Length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng04Length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng05Contains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng05Contains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng06Substrıng.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng06Substrıng.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng07CharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng07CharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Strıng08CharAt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/string/Strıng08CharAt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/homework/Switch01Gun.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/switchh/Switch01Gun.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance01animal/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance01animal/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance01animal/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance01animal/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance01animal/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance02car/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance02car/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance02car/ElectricCar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance02car/ElectricCar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance02car/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance02car/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance02car/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance02car/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance03person/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance03person/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance03person/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance03person/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance03person/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance03person/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance04library/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance04library/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance04library/LibraryItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance04library/LibraryItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance04library/Magazine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance04library/Magazine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance04library/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance04library/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance05circle/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance05circle/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance05circle/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/inheritance05circle/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j101homework/inheritance/inheritance05circle/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/arraylist/Task08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/casting/M_1025_02_Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/concat/M_1028_01_Concat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/concat/M_1028_02_Concat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/constructor/CoropImalati.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/constructor/ProductRanner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_01_DateTimeFormater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_02_DateTime.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_03_DateTimeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_04_DateTimeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_05_DateTimeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_06_DateTimeFormater.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/datetime/M_1129_07_DateTimeFormatter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/dersyonetimsistemi/Course.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/dersyonetimsistemi/Runner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/dersyonetimsistemi/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_01_If.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_02_IfTrafikLambasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_03_IfTrafikLambasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_04_IfPositivNegativ.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_05_IfBuyukKucukDouble.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_06_IfDoubleSayiBuyukKucukseMetinYazdir.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_07_IfBolumundenKalaniBulma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_08_IfStringYazdirma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_09_IfEls_YetiskinYasliCocuk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_10_IfElseGectiKaldi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1026_11_If.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1031_01_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1102_01_If_Emeklilik_Hesabi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1103_01_If_Yasa_Göre_Erkek_Kadin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1103_02_If_Ögrenci_Basari_Durumu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1103_03_If_Yetiskin_Yasli_cocuk.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1107_02_While_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1107_For.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ifelse/M_1127_01_ForEach.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1020_01_WrapperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1020_02_WrapperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_01_SayilarlaIlgili.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_02_FinalOrtalamasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_03_Hipotenus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_04_HizSüre.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_05_IkiSayininToplami.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_06_VucutKitleIndeksi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_07_UykuProblemi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_08_ClaruswaySporSlanu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_09_DörtIslem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_10_GecmeNotuVizeFinal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_11_HerhangiBirSayiyiYazdirma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_12_KonsolaIsimYazdirma.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_13_KareCikarmaBölme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_14_FahreneitCelsius.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_15_KdvliFiyatVeKdv.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_16_KarekterinAsciiDegeri.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1027_17_StringIntegerKarsilastirmasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1101_01_Casting.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1101_02_WrapperClass.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1108_.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1108_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1114_01_Metod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1115_02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ikincibölüm/M_1115_YasHesaplamaMetodu.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/onlineegitimplatformu/Ders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/onlineegitimplatformu/Not.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/onlineegitimplatformu/Ogrenci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_01_Replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_02_Replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_03_ReplaceFirst.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_04_Replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_05_ReplaceAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_06_ReplaceAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/replace/M_1030_07_ReplaceAll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1028_01_LengthContains.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String01LengthContains.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1028_02_ConcatLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String02ConcatLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1029_03_ConcatLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String03ConcatLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1029_04_StartswithEndswith.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String04StartswithEndswith.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1029_05_Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String05Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1029_06_SubstringIlkUcHarfAlma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String06SubstringIlkUcHarfAlma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/soncalismalarim/M_1029_07_SubstringHataliKelimeDegistirme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/String07SubstringHataliKelimeDegistirme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/switchh/M_1028_01_SwitchUlkeKodlariylaKdvHesaplama.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/switchh/M_1028_02_SwitchNotDüzenlemesi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/switchh/M_1028_03_SwitchHesapMakinasi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ternary/M_1029_01_TernaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ternary/M_1029_02_TernaryOperatorNotuHarfeCevirme.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j101homework/önceki/j102mentoring/ternary/M_1029_03_TernaryOperatorSicaklikSogukSicakIliman.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/casting/M_1025_02_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/casting/Casting02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/concat/M_1028_01_Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/concat/Concat01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/concat/M_1028_02_Concat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/concat/Concat02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/constructor/CoropImalati.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/constructor/product/CoropImalati.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/constructor/ProductRanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/constructor/product/ProductRanner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_01_DateTimeFormater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime01Formater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_02_DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_03_DateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime03Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_04_DateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime04Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_05_DateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime05Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_06_DateTimeFormater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime06Formater.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/datetime/M_1129_07_DateTimeFormatter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/datetime/DateTime07Formatter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/dersyonetimsistemi/Course.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/constructor/dersyonetimsistemi/Course.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/dersyonetimsistemi/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/constructor/dersyonetimsistemi/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/dersyonetimsistemi/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/constructor/dersyonetimsistemi/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_01_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_02_IfTrafikLambasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If02TrafikLambasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_03_IfTrafikLambasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If03TrafikLambasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_04_IfPositivNegativ.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If04PositivNegativ.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_05_IfBuyukKucukDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If05BuyukKucukDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_06_IfDoubleSayiBuyukKucukseMetinYazdir.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If06DoubleSayiBuyukKucukseMetinYazdir.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_07_IfBolumundenKalaniBulma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If07BolumundenKalaniBulma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_08_IfStringYazdirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If08StringYazdirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_09_IfEls_YetiskinYasliCocuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If09Els_YetiskinYasliCocuk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_10_IfElseGectiKaldi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If10ElseGectiKaldi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1026_11_If.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If11NotDerecesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1031_01_For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/forr/For01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1102_01_If_Emeklilik_Hesabi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If12Emeklilik_Hesabi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1103_01_If_Yasa_Göre_Erkek_Kadin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If13Yasa_Göre_Erkek_Kadin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1103_02_If_Ögrenci_Basari_Durumu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If14Ogrenci_Basari_Durumu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1103_03_If_Yetiskin_Yasli_cocuk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/iff/If15Yetiskin_Yasli_cocuk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1107_02_While_For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/whilee/While_For03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1107_For.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/forr/For02CarpimTablosu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ifelse/M_1127_01_ForEach.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/foreach/ForEach01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1020_01_WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/wrapper/WrapperClass01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1020_02_WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/wrapper/WrapperClass03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_01_SayilarlaIlgili.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel01Sayilar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_02_FinalOrtalamasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel02Notlar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_03_Hipotenus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel03Hipotenus.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_04_HizSüre.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel04HizSüre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_05_IkiSayininToplami.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel05IkiSayininToplami.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_06_VucutKitleIndeksi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel06VucutKitleIndeksi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_07_UykuProblemi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel07UykuProblemi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_08_ClaruswaySporSlanu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel08ClaruswaySporSalonu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_09_DörtIslem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel09DörtIslem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_10_GecmeNotuVizeFinal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel10GecmeNotuVizeFinal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_11_HerhangiBirSayiyiYazdirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel11HerhangiBirSayiyiYazdirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_12_KonsolaIsimYazdirma.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel12KonsolaIsimYazdirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_13_KareCikarmaBölme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel13KareCikarmaBölme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_14_FahreneitCelsius.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel14FahreneitCelsius.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_15_KdvliFiyatVeKdv.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel15KdvliFiyatVeKdv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_16_KarekterinAsciiDegeri.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel16KarekterinAsciiDegeri.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1027_17_StringIntegerKarsilastirmasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/javatemel/JavaTemel17StringIntegerKarsilastirmasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1101_01_Casting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/string/casting/Casting01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1101_02_WrapperClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/wrapper/WrapperClass02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1108_.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/whilee/While01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1108_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/whilee/While02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1114_01_Metod.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1115_02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/metod/Metod02KelimeyiUcKereYazdirma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ikincibölüm/M_1115_YasHesaplamaMetodu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/metod/Metod01YasHesaplamaMetodu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/onlineegitimplatformu/Ders.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/onlineegitimplatformu/Not.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/onlineegitimplatformu/Ogrenci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_01_Replace.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_02_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/Replace01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_03_ReplaceFirst.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/Replace02First.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_04_Replace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/Replace03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_05_ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/ReplaceAll04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_06_ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/ReplaceAll05.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/replace/M_1030_07_ReplaceAll.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/replace/ReplaceAll06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/switchh/M_1028_01_SwitchUlkeKodlariylaKdvHesaplama.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/switchh/Switch01UlkeKodlariylaKdvHesaplama.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/switchh/M_1028_02_SwitchNotDüzenlemesi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/switchh/Switch02NotDüzenlemesi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/switchh/M_1028_03_SwitchHesapMakinasi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/switchh/Switch03HesapMakinasi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ternary/M_1029_01_TernaryOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/ternary/TernaryOperator01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ternary/M_1029_02_TernaryOperatorNotuHarfeCevirme.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/ternary/TernaryOperator02NotuHarfeCevirme.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/j102mentoring/ternary/M_1029_03_TernaryOperatorSicaklikSogukSicakIliman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/j102mentoring/ternary/TernaryOperator03SicaklikSogukSicakIliman.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +300,7 @@
     "Application.BmiRunner.executor": "Run",
     "Application.GeziTuru.executor": "Run",
     "Application.GeziUcakBileti.executor": "Run",
+    "Application.Hw_1129_01_DateTimeNano.executor": "Run",
     "Application.Main (1).executor": "Run",
     "Application.Main (2).executor": "Run",
     "Application.Main (3).executor": "Run",
@@ -79,6 +308,7 @@
     "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Run",
     "Application.ReservationProgram.executor": "Run",
+    "Application.WrapperClass03.executor": "Run",
     "Application.karalama.executor": "Debug",
     "Application.test (1).executor": "Run",
     "Application.test.executor": "Run",
@@ -101,13 +331,13 @@
       <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReservationProgram">
-    <configuration name="BmiRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j101homework.consructor01bmi.BmiRunner" />
+  <component name="RunManager" selected="Application.WrapperClass03">
+    <configuration name="DateTimeNano01NanoSureHesapla" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j101homework.datetime.DateTimeNano01NanoSureHesapla" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j101homework.consructor01bmi.*" />
+          <option name="PATTERN" value="j101homework.consructor.consructor02gezituru.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,11 +372,24 @@
       </method>
     </configuration>
     <configuration name="ReservationProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j101homework.consructor02gezituru.ReservationProgram" />
+      <option name="MAIN_CLASS_NAME" value="j101homework.consructor.consructor02gezituru.ReservationProgram" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="j101homework.consructor02gezituru.*" />
+          <option name="PATTERN" value="j101homework.consructor.consructor02gezituru.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WrapperClass03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="j102mentoring.wrapper.WrapperClass03" />
+      <module name="lernenJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="j102mentoring.wrapper.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -156,10 +399,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WrapperClass03" />
+        <item itemvalue="Application.DateTimeNano01NanoSureHesapla" />
         <item itemvalue="Application.ReservationProgram" />
         <item itemvalue="Application.GeziUcakBileti" />
         <item itemvalue="Application.GeziTuru" />
-        <item itemvalue="Application.BmiRunner" />
       </list>
     </recent_temporary>
   </component>
