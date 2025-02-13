@@ -18,6 +18,7 @@ gectiMi (boolean) – Öğrencinin geçip geçmediğini belirten durum (50 ve ü
  */
 public class Ogrenci {
 
+    public String isim;
     // Öğrenci bilgileri
     int sinif;
     int numara;
@@ -54,6 +55,9 @@ public class Ogrenci {
         this.not = not;
         this.durumu = not >= 50;  // 50 ve üzeri geçiyor
         this.sinifHocasi = "Bilinmiyor"; // Varsayılan hocası
+    }
+
+    public Ogrenci(String ali) {
     }
 
     // not güncelleme ve geçme durumu kontrol etme

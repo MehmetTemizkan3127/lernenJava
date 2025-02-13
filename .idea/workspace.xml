@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="06833108-e6b4-4a1c-b5cf-f8f06b8f9db0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javacalismalarim/dummy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacalismalarim/dummy/Dummy01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacalismalarim/dummy/PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/javacalismalarim/konutekrari/constructor/ogrenci/Ogrenci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/javacalismalarim/konutekrari/constructor/ogrenci/Ogrenci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +48,7 @@
     "Application.Main (4).executor": "Run",
     "Application.Main (5).executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.PassByValue.executor": "Run",
     "Application.Q003.executor": "Run",
     "Application.ReservationProgram.executor": "Run",
     "Application.Test.executor": "Run",
@@ -73,20 +75,7 @@
       <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C02PassByValue">
-    <configuration name="C01PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="j16passbyvalue.C01PassByValue" />
-      <module name="lernenJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="j16passbyvalue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Main">
     <configuration name="C02PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="j16passbyvalue.C02PassByValue" />
       <module name="lernenJava" />
@@ -113,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q003" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocasinavsorulari.Q003.Q003" />
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacalismalarim.dummy.Main" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocasinavsorulari.Q003.*" />
+          <option name="PATTERN" value="javacalismalarim.dummy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +115,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ocasinavsorulari.Q001.Test" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacalismalarim.dummy.Main" />
       <module name="lernenJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ocasinavsorulari.Q001.*" />
+          <option name="PATTERN" value="javacalismalarim.dummy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javacalismalarim.dummy.PassByValue" />
+      <module name="lernenJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javacalismalarim.dummy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C02PassByValue" />
-        <item itemvalue="Application.C01PassByValue" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.PassByValue" />
         <item itemvalue="Application.Dummy01" />
-        <item itemvalue="Application.Q003" />
-        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.C02PassByValue" />
       </list>
     </recent_temporary>
   </component>
