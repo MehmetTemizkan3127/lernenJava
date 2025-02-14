@@ -8,7 +8,13 @@ public class VarargsKaralamalari {
         }
         return total;
     }
-
+    public static double calculateTotal(int... numbers) {
+        double total = 0;
+        for (double number : numbers) {
+            total += number;
+        }
+        return total;
+    }
 
     public static double calculateDifference(double... numbers) {
         if (numbers.length == 0) {
