@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="06833108-e6b4-4a1c-b5cf-f8f06b8f9db0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="06833108-e6b4-4a1c-b5cf-f8f06b8f9db0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,40 +28,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Append_Cast.executor": "Run",
-    "Application.BmiRunner.executor": "Run",
-    "Application.C01PassByValue.executor": "Run",
-    "Application.C02PassByValue.executor": "Run",
-    "Application.Dummy01.executor": "Run",
-    "Application.GeziTuru.executor": "Run",
-    "Application.GeziUcakBileti.executor": "Run",
-    "Application.Hw_1129_01_DateTimeNano.executor": "Run",
-    "Application.Main (1).executor": "Run",
-    "Application.Main (2).executor": "Run",
-    "Application.Main (3).executor": "Run",
-    "Application.Main (4).executor": "Run",
-    "Application.Main (5).executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.PassByValue.executor": "Run",
-    "Application.Q003.executor": "Run",
-    "Application.ReservationProgram.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Application.WrapperClass03.executor": "Run",
-    "Application.karalama.executor": "Debug",
-    "Application.test (1).executor": "Run",
-    "Application.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.preview.features.used": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/mehme/IdeaProjects/lernenJava/src/ocasinavsorulari",
-    "onboarding.tips.debug.path": "C:/Users/mehme/IdeaProjects/lernenJava/src/Main.java",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Append_Cast.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BmiRunner.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C01PassByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.C02PassByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Dummy01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeziTuru.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GeziUcakBileti.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hw_1129_01_DateTimeNano.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PassByValue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Q003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ReservationProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClass03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.karalama.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mehme/IdeaProjects/lernenJava/src/ocasinavsorulari&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/mehme/IdeaProjects/lernenJava/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mehme\IdeaProjects\lernenJava\src\ocasinavsorulari" />
