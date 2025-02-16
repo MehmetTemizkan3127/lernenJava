@@ -2,6 +2,8 @@ package javacalismalarim.maps;
 
 import javacalismalarim.konutekrari.map.Map;
 
+import java.util.HashMap;
+
 public class MetodlarMap {
     public static void main(String[] args) {
         Map<String , Integer> hesapBakiyem = new HashMap<>();

@@ -1,6 +1,12 @@
 package javacalismalarim.konutekrari.map;
 
 public class Map {
+    public void put(String dolar, int i) {
+    }
+
+    public Double getOrDefault(String kullaniciAdi, double v) {
+        return null;
+    }
     /*
 
 
